@@ -19,6 +19,6 @@ Independent research project (2024–2025) comparing traditional ML models and l
 ## Environment
 
 Main packages:
-`pandas`, `numpy`, `scikit-learn`, `ta`, `yfinance`, `openai`, `torch` (for FinBERT).
+`pandas`, `numpy`, `scikit-learn`, `ta`, `yfinance`, `openai`
 
 API keys are loaded from environment variables and **must not be committed**.
